@@ -1,0 +1,31 @@
+.foto_personal{
+    width: 40%;
+    border-radius: 50%;
+}
+
+.barra_superior{
+    margin-top: 15px;
+}
+
+.bi{
+    font-size: 25px;
+}
+
+.contenedor_nombre{
+    padding-top: 25px;
+}
+
+.contenedor_principal{
+    background-color: bisque;
+    margin: 10px;
+    padding: 10px;
+}
+
+.div_rojo{
+    border:2px solid #e74c3c;
+}
+
+.alerta_nombre{
+    display: none;
+    color: #e74c3c;
+}
