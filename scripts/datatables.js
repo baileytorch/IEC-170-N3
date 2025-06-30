@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  //new DataTable("#example");
   $("#example").DataTable({
     ajax: {
       url: "https://jsonplaceholder.typicode.com/users",
@@ -23,7 +22,7 @@ $(document).ready(function () {
             first:      "Primero",
             previous:   "Anterior",
             next:       "Siguiente",
-            last:       "Último"
+            last:       "&Uacute;ltimo"
         },
         info: "Mostrando _START_ a _END_ de un total de _TOTAL_ registros",
     }
